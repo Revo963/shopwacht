@@ -1,5 +1,7 @@
 # ShopWacht
 
+Website (in German): https://shopwacht.de
+
 ShopWacht checks a German online shop for the mistakes that most often lead to an *Abmahnung* (a paid cease-and-desist
 letter from a competitor or an association) and explains every finding: where it is, why it is a risk, the legal basis and
 how to fix it.
