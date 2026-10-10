@@ -1,0 +1,6 @@
+node_modules/
+*.log
+# Your settings and key
+.env
+# Scan reports and false-alarm marks written by the app
+/data/

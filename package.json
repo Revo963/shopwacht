@@ -1,0 +1,37 @@
+{
+  "name": "shopwacht",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Prüft Online-Shops auf typische Abmahnrisiken (Green Claims, Grundpreis, Heilversprechen, Impressum …) mit TypeSafe Jev.",
+  "license": "PolyForm-Shield-1.0.0",
+  "author": "Abdalla Kwedr <revo.contact@yahoo.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Revo963/shopwacht.git"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "tsx watch src/server/main.ts",
+    "start": "tsx src/server/main.ts",
+    "scan": "tsx src/cli.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@hono/node-server": "^2.1.1",
+    "csv-parse": "^7.0.2",
+    "hono": "^4.13.8",
+    "node-html-parser": "^9.0.4",
+    "puppeteer-core": "^25.11.0",
+    "undici": "^7.30.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.1",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.1"
+  }
+}

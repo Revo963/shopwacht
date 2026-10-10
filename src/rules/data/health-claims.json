@@ -1,0 +1,1447 @@
+{
+ "source": "Verordnung (EU) Nr. 432/2012, Anhang (Liste zulässiger gesundheitsbezogener Angaben), konsolidierte Fassung CELEX:02012R0432-20250820",
+ "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02012R0432-20250820",
+ "importedAt": "2026-09-19",
+ "claims": [
+  {
+   "nutrient": "Aktivkohle",
+   "claim": "Aktivkohle trägt zur Verringerung übermäßiger Blähungen nach dem Essen bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die 1 g Aktivkohle je angegebene Portion enthalten. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung einstellt, wenn 1 g mindestens 30 Minuten vor und 1 g kurz nach der Mahlzeit aufgenommen werden.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Alpha-Cyclodextrin",
+   "claim": "Der Verzehr von Alpha-Cyclodextrin als Bestandteil einer stärkehaltigen Mahlzeit trägt dazu bei, dass der Blutzuckerspiegel nach der Mahlzeit weniger stark ansteigt",
+   "conditions": "Die Angabe darf verwendet werden für Lebensmittel, die mindestens 5 g Alpha-Cyclodextrin pro 50 g Stärke in einer angegebenen Portion als Teil einer Mahlzeit enthalten. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung einstellt, wenn Alpha-Cyclodextrin als Bestandteil der Mahlzeit aufgenommen wird.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Alpha-Linolensäure (ALA)",
+   "claim": "ALA trägt zur Aufrechterhaltung eines normalen Cholesterinspiegels im Blut bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine ALA-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe QUELLE VON OMEGA-3-FETTSÄUREN erfüllen. Unterrichtung der Verbraucher, dass sich die positive Wirkung bei einer täglichen Aufnahme von 2 g ALA einstellt.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Arabinoxylan, hergestellt aus Weizenendosperm",
+   "claim": "Die Aufnahme von Arabinoxylan als Bestandteil einer Mahlzeit trägt dazu bei, dass der Blutzuckerspiegel nach der Mahlzeit weniger stark ansteigt",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die mindestens 8 g Arabinoxylan (AX)-reiche Fasern aus Weizenendosperm (mit einem Gewichtsanteil von mindestens 60 % AX) je 100 g verfügbare Kohlenhydrate in einer angegebenen Portion als Bestandteil der Mahlzeit enthalten. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung einstellt, wenn Arabinoxylan (AX)-reiche Fasern aus Weizenendosperm als Bestandteil der Mahlzeit aufgenommen werden.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Beta-Glucane",
+   "claim": "Beta-Glucane tragen zur Aufrechterhaltung eines normalen Cholesterinspiegels im Blut bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die mindestens 1 g Beta-Glucane aus Hafer, Haferkleie, Gerste oder Gerstenkleie bzw. aus Gemischen dieser Getreide je angegebene Portion enthalten. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 3 g Beta-Glucanen aus Hafer, Haferkleie, Gerste oder Gerstenkleie bzw. aus Gemischen dieser Getreide einstellt.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Beta-Glucane aus Hafer und Gerste",
+   "claim": "Die Aufnahme von Beta-Glucanen aus Hafer oder Gerste als Bestandteil einer Mahlzeit trägt dazu bei, dass der Blutzuckerspiegel nach der Mahlzeit weniger stark ansteigt",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die mindestens 4 g Beta-Glucane aus Hafer oder Gerste je 30 g verfügbare Kohlenhydrate in einer angegebenen Portion als Bestandteil der Mahlzeit enthalten. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung einstellt, wenn Beta-Glucane aus Hafer oder Gerste als Bestandteil der Mahlzeit aufgenommen werden.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Betain",
+   "claim": "Betain trägt zu einem normalen Homocystein-Stoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die mindestens 500 mg Betain je angegebene Portion enthalten. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 1,5 g Betain einstellt.",
+   "restrictions": "Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass eine tägliche Aufnahme von mehr als 4 g den Blut-Cholesterinspiegel erheblich erhöhen kann."
+  },
+  {
+   "nutrient": "Biotin",
+   "claim": "Biotin trägt zu einem normalen Energiestoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Biotinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Biotin",
+   "claim": "Biotin trägt zu einer normalen Funktion des Nervensystems bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Biotinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Biotin",
+   "claim": "Biotin trägt zu einem normalen Stoffwechsel von Makronährstoffen bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Biotinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Biotin",
+   "claim": "Biotin trägt zur normalen psychischen Funktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Biotinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Biotin",
+   "claim": "Biotin trägt zur Erhaltung normaler Haare bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Biotinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Biotin",
+   "claim": "Biotin trägt zur Erhaltung normaler Schleimhäute bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Biotinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Biotin",
+   "claim": "Biotin trägt zur Erhaltung normaler Haut bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Biotinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Calcium",
+   "claim": "Calcium trägt zu einer normalen Blutgerinnung bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Calciumquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Calcium",
+   "claim": "Calcium trägt zu einem normalen Energiestoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Calciumquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Calcium",
+   "claim": "Calcium trägt zu einer normalen Muskelfunktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Calciumquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Calcium",
+   "claim": "Calcium trägt zu einer normalen Signalübertragung zwischen den Nervenzellen bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Calciumquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Calcium",
+   "claim": "Calcium trägt zur normalen Funktion von Verdauungsenzymen bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Calciumquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Calcium",
+   "claim": "Calcium hat eine Funktion bei der Zellteilung und -spezialisierung",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Calciumquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Calcium",
+   "claim": "Calcium wird für die Erhaltung normaler Knochen benötigt",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Calciumquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Calcium",
+   "claim": "Calcium wird für die Erhaltung normaler Zähne benötigt",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Calciumquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Chitosan",
+   "claim": "Chitosan trägt zur Aufrechterhaltung eines normalen Cholesterinspiegels im Blut bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, deren Verzehr eine tägliche Aufnahme von 3 g Chitosan gewährleistet. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 3 g Chitosan einstellt.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Chlorid",
+   "claim": "Chlorid trägt durch die Bildung von Magensäure zu einer normalen Verdauung bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Chloridquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": "Die Angabe darf nicht für Chlorid verwendet werden, das aus Natriumchlorid gewonnen wird."
+  },
+  {
+   "nutrient": "Cholin",
+   "claim": "Cholin trägt zu einem normalen Homocystein-Stoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die mindestens 82,5 mg Cholin je 100 g oder 100 ml bzw. je Portion Lebensmittel enthalten.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Cholin",
+   "claim": "Cholin trägt zu einem normalen Fettstoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die mindestens 82,5 mg Cholin je 100 g oder 100 ml bzw. je Portion Lebensmittel enthalten.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Cholin",
+   "claim": "Cholin trägt zur Erhaltung einer normalen Leberfunktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die mindestens 82,5 mg Cholin je 100 g oder 100 ml bzw. je Portion Lebensmittel enthalten.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Chrom",
+   "claim": "Chrom trägt zu einem normalen Stoffwechsel von Makronährstoffen bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Quelle von dreiwertigem Chrom gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Chrom",
+   "claim": "Chrom trägt zur Aufrechterhaltung eines normalen Blutzuckerspiegels bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Quelle von dreiwertigem Chrom gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Docosahexaensäure (DHA)",
+   "claim": "DHA trägt zur Erhaltung einer normalen Gehirnfunktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die mindestens 40 mg DHA je 100 g und je 100 kcal enthalten. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 250 mg DHA einstellt.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Docosahexaensäure (DHA)",
+   "claim": "DHA trägt zur Erhaltung normaler Sehkraft bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die mindestens 40 mg DHA je 100 g und je 100 kcal enthalten. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 250 mg DHA einstellt.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Docosahexaensäure (DHA)",
+   "claim": "DHA trägt zur Aufrechterhaltung eines normalen Triglyceridspiegels im Blut bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, deren Verzehr eine tägliche Aufnahme von 2 g DHA gewährleistet und die DHA in Kombination mit Eicosapentaensäure (EPA) enthalten. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 2 g DHA einstellt. Wird die Angabe bei Nahrungsergänzungsmitteln und/oder angereicherten Lebensmitteln verwendet, sind die Verbraucher darüber zu unterrichten, dass eine tägliche Gesamtaufnahme aus diesen Lebensmitteln von 5 g EPA und DHA kombiniert nicht überschritten werden darf.",
+   "restrictions": "Die Angabe darf nicht für Lebensmittel verwendet werden, die für Kinder bestimmt sind."
+  },
+  {
+   "nutrient": "Docosahexaensäure und Eicosapentaensäure (DHA/EPA)",
+   "claim": "DHA und EPA tragen zur Aufrechterhaltung eines normalen Blutdrucks bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, deren Verzehr eine tägliche Aufnahme von 3 g EPA und DHA gewährleistet. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 3 g EPA und DHA einstellt. Wird die Angabe bei Nahrungsergänzungsmitteln und/oder angereicherten Lebensmitteln verwendet, sind die Verbraucher darüber zu unterrichten, dass eine tägliche Gesamtaufnahme aus diesen Lebensmitteln von 5 g EPA und DHA kombiniert nicht überschritten werden darf.",
+   "restrictions": "Die Angabe darf nicht für Lebensmittel verwendet werden, die für Kinder bestimmt sind."
+  },
+  {
+   "nutrient": "Docosahexaensäure und Eicosapentaensäure (DHA/EPA)",
+   "claim": "DHA und EPA tragen zur Aufrechterhaltung eines normalen Triglyceridspiegels im Blut bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, deren Verzehr eine tägliche Aufnahme von 2 g EPA und DHA gewährleistet. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 2 g EPA und DHA einstellt. Wird die Angabe bei Nahrungsergänzungsmitteln und/oder angereicherten Lebensmitteln verwendet, sind die Verbraucher darüber zu unterrichten, dass eine tägliche Gesamtaufnahme aus diesen Lebensmitteln von 5 g EPA und DHA kombiniert nicht überschritten werden darf.",
+   "restrictions": "Die Angabe darf nicht für Lebensmittel verwendet werden, die für Kinder bestimmt sind."
+  },
+  {
+   "nutrient": "Eicosapentaensäure und Docosahexaensäure (EPA/DHA)",
+   "claim": "EPA und DHA tragen zu einer normalen Herzfunktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine EPA- bzw. DPA-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe QUELLE VON OMEGA3-FETTSÄUREN erfüllen. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 250 mg EPA und DHA einstellt.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Einfach ungesättigte und/oder mehrfach ungesättigte Fettsäuren",
+   "claim": "Der Ersatz gesättigter Fettsäuren durch einfach und/oder mehrfach ungesättigte Fettsäuren in der Ernährung trägt zur Aufrechterhaltung eines normalen Cholesterinspiegels im Blut bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die einen hohen Gehalt an ungesättigten Fettsäuren gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe MIT EINEM HOHEN GEHALT AN UNGESÄTTIGTEN FETTSÄUREN aufweisen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Eisen",
+   "claim": "Eisen trägt zu einer normalen kognitiven Funktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Eisenquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Eisen",
+   "claim": "Eisen trägt zu einem normalen Energiestoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Eisenquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Eisen",
+   "claim": "Eisen trägt zur normalen Bildung von roten Blutkörperchen und Hämoglobin bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Eisenquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Eisen",
+   "claim": "Eisen trägt zu einem normalen Sauerstofftransport im Körper bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Eisenquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Eisen",
+   "claim": "Eisen trägt zu einer normalen Funktion des Immunsystems bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Eisenquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Eisen",
+   "claim": "Eisen trägt zur Verringerung von Müdigkeit und Ermüdung bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Eisenquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Eisen",
+   "claim": "Eisen hat eine Funktion bei der Zellteilung",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Eisenquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Fleisch und Fisch",
+   "claim": "Fleisch bzw. Fisch trägt bei Verzehr mit anderen eisenhaltigen Lebensmitteln zu einer verbesserten Eisenaufnahme bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die mindestens 50 g Fleisch oder Fisch je angegebene Einzelportion enthalten. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung einstellt, wenn 50 g Fleisch oder Fisch zusammen mit einem oder mehreren Lebensmitteln verzehrt werden, die Nicht-Häm-Eisen enthalten.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Fluorid",
+   "claim": "Fluorid trägt zur Erhaltung der Zahnmineralisierung bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Fluoridquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Folat",
+   "claim": "Folat trägt zum Wachstum des mütterlichen Gewebes während der Schwangerschaft bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Folatquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Folat",
+   "claim": "Folat trägt zu einer normalen Aminosäuresynthese bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Folatquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Folat",
+   "claim": "Folat trägt zu einer normalen Blutbildung bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Folatquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Folat",
+   "claim": "Folat trägt zu einem normalen Homocystein-Stoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Folatquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Folat",
+   "claim": "Folat trägt zur normalen psychischen Funktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Folatquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Folat",
+   "claim": "Folat trägt zu einer normalen Funktion des Immunsystems bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Folatquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Folat",
+   "claim": "Folat trägt zur Verringerung von Müdigkeit und Ermüdung bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Folatquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Folat",
+   "claim": "Folat hat eine Funktion bei der Zellteilung",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Folatquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Fructose",
+   "claim": "Der Verzehr von Lebensmitteln, die Fructose enthalten, führt zu einem geringeren Glucoseanstieg im Blut im Vergleich zu Lebensmitteln, die Saccharose oder Glucose enthalten",
+   "conditions": "Damit die Angabe zulässig ist, sollte in zuckergesüßten Lebensmitteln oder Getränken Glucose und/oder Saccharose durch Fructose ersetzt werden, so dass die Verringerung des Glucose- und/oder Saccharosegehalts in diesen Lebensmitteln oder Getränken mindestens 30 % beträgt.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Gerstenkorn-Ballaststoffe",
+   "claim": "Gerstenkorn-Ballaststoffe tragen zur Erhöhung des Stuhlvolumens bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die einen hohen Gehalt an diesem Ballaststoff gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe HOHER BALLASTSTOFFGEHALT haben.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Getrocknete Pflaumen von „prunus“-Kultivaren (Prunus domestica L.)",
+   "claim": "Getrocknete Pflaumen tragen zu einer normalen Darmfunktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, deren Verzehr eine tägliche Aufnahme von 100 g getrockneter Pflaumen gewährleistet. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 100 g getrockneter Pflaumen einstellt.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Glucomannan (Konjak Mannan)",
+   "claim": "Glucomannan trägt zur Aufrechterhaltung eines normalen Cholesterinspiegels im Blut bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, deren Verzehr eine tägliche Aufnahme von 4 g Glucomannan gewährleistet. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 4 g Glucomannan einstellt.",
+   "restrictions": "Warnung, dass bei Verbrauchern mit Schluckbeschwerden oder bei unzureichender Flüssigkeitszufuhr Erstickungsgefahr besteht — Empfehlung der Einnahme mit reichlich Wasser, damit Glucomannan in den Magen gelangt."
+  },
+  {
+   "nutrient": "Glucomannan (Konjak Mannan)",
+   "claim": "Glucomannan trägt im Rahmen einer kalorienarmen Ernährung zu Gewichtsverlust bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die 1 g Glucomannan je angegebene Portion enthalten. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 3 g Glucomannan in drei Portionen à 1 g in Verbindung mit 1-2 Gläsern Wasser vor den Mahlzeiten und im Rahmen einer kalorienarmen Ernährung einstellt.",
+   "restrictions": "Warnung, dass bei Verbrauchern mit Schluckbeschwerden oder bei unzureichender Flüssigkeitszufuhr Erstickungsgefahr besteht — Empfehlung der Einnahme mit reichlich Wasser, damit Glucomannan in den Magen gelangt."
+  },
+  {
+   "nutrient": "Grüne Kiwifrüchte (Actinidia deliciosa„Hayward“)",
+   "claim": "Der Verzehr grüner Kiwifrüchte trägt durch die Erhöhung der Stuhlfrequenz zu einer normalen Darmfunktion bei",
+   "conditions": "Die Angabe darf nur verwendet werden für: i) frische grüne Kiwifrüchte, die als solche verkauft werden, oder ii) frische grüne Kiwifrüchte, die nur geschält und/oder geschnitten wurden, mit mindestens 200 g Kiwi-Fruchtfleisch. Die Verbraucher sind darüber zu unterrichten, dass sich die positive Wirkung beim täglichen Verzehr von 200 g frischem grünem Kiwi-Fruchtfleisch einstellt.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Guarkernmehl",
+   "claim": "Guarkernmehl trägt zur Aufrechterhaltung eines normalen Cholesterinspiegels im Blut bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, deren Verzehr eine tägliche Aufnahme von 10 g Guarkernmehl gewährleistet. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 10 g Guarkernmehl einstellt.",
+   "restrictions": "Warnung, dass bei Verbrauchern mit Schluckbeschwerden oder bei unzureichender Flüssigkeitszufuhr Erstickungsgefahr besteht — Empfehlung der Einnahme mit reichlich Wasser, damit Guarkernmehl in den Magen gelangt."
+  },
+  {
+   "nutrient": "Haferkorn-Ballaststoffe",
+   "claim": "Haferkorn-Ballaststoffe tragen zur Erhöhung des Stuhlvolumens bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die einen hohen Gehalt an diesem Ballaststoff gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe HOHER BALLASTSTOFFGEHALT aufweisen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Hydroxypropylmethylcellulose (HPMC)",
+   "claim": "Die Aufnahme von Hydroxypropylmethylcellulose im Rahmen einer Mahlzeit trägt dazu bei, dass der Blutzuckerspiegel nach der Mahlzeit weniger stark ansteigt",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die 4 g HPMC je angegebene Portion im Rahmen einer Mahlzeit enthalten. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung einstellt, wenn 4 g HPMC im Rahmen der Mahlzeit aufgenommen werden.",
+   "restrictions": "Warnung, dass bei Verbrauchern mit Schluckbeschwerden oder bei unzureichender Flüssigkeitszufuhr Erstickungsgefahr besteht — Empfehlung der Einnahme mit reichlich Wasser, damit Hydroxypropylmethylcellulose in den Magen gelangt."
+  },
+  {
+   "nutrient": "Hydroxypropylmethylcellulose (HPMC)",
+   "claim": "Hydroxypropylmethylcellulose trägt zur Aufrechterhaltung eines normalen Cholesterinspiegels im Blut bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, deren Verzehr eine tägliche Aufnahme von 5 g HPMC gewährleistet. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 5 g HPMC einstellt.",
+   "restrictions": "Warnung, dass bei Verbrauchern mit Schluckbeschwerden oder bei unzureichender Flüssigkeitszufuhr Erstickungsgefahr besteht — Empfehlung der Einnahme mit reichlich Wasser, damit Hydroxypropylmethylcellulose in den Magen gelangt."
+  },
+  {
+   "nutrient": "Jod",
+   "claim": "Jod trägt zu einer normalen kognitiven Funktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Jodquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Jod",
+   "claim": "Jod trägt zu einem normalen Energiestoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Jodquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Jod",
+   "claim": "Jod trägt zu einer normalen Funktion des Nervensystems bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Jodquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Jod",
+   "claim": "Jod trägt zur Erhaltung normaler Haut bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Jodquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Jod",
+   "claim": "Jod trägt zu einer normalen Produktion von Schilddrüsenhormonen und zu einer normalen Schilddrüsenfunktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Jodquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Kakaoflavanole",
+   "claim": "Kakaoflavanole fördern die Elastizität der Blutgefäße, was zum normalen Blutfluss beiträgt (*5) (*6).",
+   "conditions": "Die Verbraucher sind darüber zu informieren, dass die positive Wirkung bei einer täglichen Aufnahme von 200 mg Kakaoflavanolen erzielt wird. Die Angabe darf nur bei Kakaogetränken (mit Kakaopulver) oder bei dunkler Schokolade verwendet werden, die mindestens eine tägliche Aufnahme von 200 mg Kakaoflavanolen mit einem Polymerisationsgrad von 1-10 liefern (*6). Die Angabe darf nur für Kapseln oder Tabletten mit Kakaoextrakt mit einem hohen Anteil an Flavanolen verwendet werden, die mindestens eine tägliche Aufnahme von 200 mg Kakaoflavanolen mit einem Polymerisationsgrad von 1-10 liefern (*6).",
+   "restrictions": "—"
+  },
+  {
+   "nutrient": "Kalium",
+   "claim": "Kalium trägt zu einer normalen Funktion des Nervensystems bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Kaliumquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Kalium",
+   "claim": "Kalium trägt zu einer normalen Muskelfunktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Kaliumquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Kalium",
+   "claim": "Kalium trägt zur Aufrechterhaltung eines normalen Blutdrucks bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Kaliumquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Kohlenhydrate",
+   "claim": "Kohlenhydrate tragen zur Aufrechterhaltung einer normalen Gehirnfunktion bei",
+   "conditions": "Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 130 g Kohlenhydraten aus allen Quellen einstellt. Die Angabe darf verwendet werden für Lebensmittel, die mindestens 20 g vom Menschen verstoffwechselbare Kohlenhydrate außer Polyolen pro quantifizierter Portion enthalten und der nährwertbezogenen Angabe ZUCKERARM oder OHNE ZUCKERZUSATZ gemäß dem Anhang der Verordnung (EG) Nr. 1924/2006 entsprechen.",
+   "restrictions": "Die Angabe darf nicht für Lebensmittel verwendet werden, die zu 100 % aus Zucker bestehen."
+  },
+  {
+   "nutrient": "Kohlenhydrate",
+   "claim": "Kohlenhydrate tragen nach sehr intensiver und/oder sehr langer körperlicher Betätigung, die zur Erschöpfung der Muskulatur und der Glykogenvorräte in der Skelettmuskulatur führt, zur Wiederherstellung der normalen Muskelfunktion (Kontraktion) bei.",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die vom Menschen verstoffwechselbare Kohlenhydrate (außer Polyole) bereitstellen. Die Verbraucher sind darüber zu unterrichten, dass die positive Wirkung durch den Verzehr von insgesamt 4 g Kohlenhydraten pro kg Körpergewicht aus allen Quellen in einzelnen Dosen in den ersten 4 Stunden und spätestens 6 Stunden nach Beendigung der sehr intensiven und/oder sehr langen körperlichen Betätigung, die zur Erschöpfung der Muskulatur und der Glykogenvorräte in der Skelettmuskulatur führt, erreicht wird.",
+   "restrictions": "Die Angabe darf nur für Lebensmittel verwendet werden, die für erwachsene Menschen bestimmt sind, die sich sehr intensiv und/oder sehr lange körperlich betätigt und damit ihre Muskulatur und Glykogenvorräte in der Skelettmuskulatur erschöpft haben."
+  },
+  {
+   "nutrient": "Kohlenhydrat-Elektrolyt-Lösungen",
+   "claim": "Kohlenhydrat-Elektrolyt-Lösungen tragen zur Aufrechterhaltung der Ausdauerleistung bei längerem Ausdauertraining bei",
+   "conditions": "Damit die Angabe zulässig ist, sollten Kohlenhydrat-Elektrolyt-Lösungen 80-350 kcal/l aus Kohlenhydraten enthalten und mindestens 75 % der Energie sollten aus Kohlenhydraten gewonnen werden, die eine deutliche blutzuckersteigernde Wirkung haben, wie Glucose, Glucosepolymere und Saccharose. Die Getränke sollten ferner zwischen 20 mmol/l (460 mg/l) und 50 mmol/l (1 150 mg/l) Natrium enthalten und eine Osmolalität von 200-330 mOsm/kg Wasser aufweisen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Kohlenhydrat-Elektrolyt-Lösungen",
+   "claim": "Kohlenhydrat-Elektrolyt-Lösungen verbessern die Aufnahme von Wasser während der körperlichen Betätigung",
+   "conditions": "Damit die Angabe zulässig ist, sollten Kohlenhydrat-Elektrolyt-Lösungen 80-350 kcal/l aus Kohlenhydraten enthalten und mindestens 75 % der Energie sollten aus Kohlenhydraten gewonnen werden, die eine deutliche blutzuckersteigernde Wirkung haben, wie Glucose, Glucosepolymere und Saccharose. Die Getränke sollten ferner zwischen 20 mmol/l (460 mg/l) und 50 mmol/l (1 150 mg/l) Natrium enthalten und eine Osmolalität von 200-330 mOsm/kg Wasser aufweisen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Kohlenhydratlösungen",
+   "claim": "Kohlenhydratlösungen tragen zur Verbesserung der körperlichen Leistungsfähigkeit während einer intensiven und lang anhaltenden körperlichen Betätigung bei trainierten Erwachsenen bei.",
+   "conditions": "Die Angabe darf nur für Kohlenhydratlösungen verwendet werden, die nach der Gebrauchsanweisung zwischen 30 g und 90 g Kohlenhydrate pro Stunde liefern, sofern es sich bei den betreffenden Kohlenhydraten um Glucose, Saccharose, Fructose und/oder Maltodextrine handelt, unter folgenden Bedingungen: a) Fructose (aus Fructose und/oder Saccharose) sollte nicht mehr als 1/3 der Gesamtkohlenhydrate ausmachen und b) Glucose (aus Glucose, Saccharose und/oder Maltodextrinen) sollte 60 g/h nicht überschreiten. Verbraucher müssen darüber in Kenntnis gesetzt werden, dass die vorteilhafte Wirkung nur bei trainierten Erwachsenen eintritt, die eine intensive (mindestens 65 % der VO2max) und lang anhaltende (mindestens 60 Minuten) körperliche Betätigung absolvieren.",
+   "restrictions": "Die Angabe darf nur für Lebensmittel verwendet werden, die für trainierte Erwachsene bestimmt sind, die sich intensiv und lang anhaltend körperlich betätigen."
+  },
+  {
+   "nutrient": "Kreatin",
+   "claim": "Kreatin erhöht die körperliche Leistung bei Schnellkrafttraining im Rahmen kurzzeitiger intensiver körperlicher Betätigung",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, deren Verzehr eine tägliche Aufnahme von 3 g Kreatin gewährleistet. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 3 g Kreatin einstellt.",
+   "restrictions": "Die Angabe darf nur für Lebensmittel verwendet werden, die für Erwachsene bestimmt sind, die einer intensiven körperlichen Betätigung nachgehen."
+  },
+  {
+   "nutrient": "Kreatin",
+   "claim": "Die tägliche Einnahme von Kreatin kann die Wirkung von Krafttraining auf die Muskelkraft von Erwachsenen über 55 Jahre steigern.",
+   "conditions": "Die Verbraucher sind darüber zu unterrichten, dass — die Angabe für Erwachsene über 55 Jahre gilt, die regelmäßig Krafttraining betreiben; — sich die positive Wirkung bei einer täglichen Aufnahme von 3 g Kreatin in Verbindung mit Krafttraining einstellt, bei dem die Belastung im Laufe der Zeit gesteigert werden kann und das mindestens dreimal wöchentlich über mehrere Wochen mit einer Intensität von mindestens 65 % bis 75 % des 1-Repetition-Maximums (*10) betrieben werden sollte.",
+   "restrictions": "Die Angabe darf nur für Lebensmittel verwendet werden, die für Erwachsene über 55 Jahre bestimmt sind, die regelmäßig Krafttraining betreiben."
+  },
+  {
+   "nutrient": "Kupfer",
+   "claim": "Kupfer trägt zur Erhaltung von normalem Bindegewebe bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Kupferquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Kupfer",
+   "claim": "Kupfer trägt zu einem normalen Energiestoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Kupferquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Kupfer",
+   "claim": "Kupfer trägt zu einer normalen Funktion des Nervensystems bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Kupferquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Kupfer",
+   "claim": "Kupfer trägt zu einer normalen Haarpigmentierung bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Kupferquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Kupfer",
+   "claim": "Kupfer trägt zu einem normalen Eisentransport im Körper bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Kupferquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Kupfer",
+   "claim": "Kupfer trägt zu einer normalen Hautpigmentierung bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Kupferquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Kupfer",
+   "claim": "Kupfer trägt zu einer normalen Funktion des Immunsystems bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Kupferquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Kupfer",
+   "claim": "Kupfer trägt dazu bei, die Zellen vor oxidativem Stress zu schützen",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Kupferquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Lactase",
+   "claim": "Bei Personen, die Probleme mit der Verdauung von Lactose haben, verbessert Lactase die Lactoseverdauung",
+   "conditions": "Die Angabe darf nur verwendet werden für Nahrungsergänzungsmittel mit einem Mindestgehalt von 4 500 FCC-Einheiten (Food Chemicals Codex) in Verbindung mit der an die Zielgruppe gerichteten Empfehlung der Einnahme bei jeder lactosehaltigen Mahlzeit.",
+   "restrictions": "Die Zielgruppe ist ferner darüber zu unterrichten, dass es Unterschiede bei der Lactosetoleranz gibt und dass die Betroffenen sich Rat bezüglich der Funktion des Stoffes bei ihrer Ernährung holen sollten."
+  },
+  {
+   "nutrient": "Lactitol",
+   "claim": "Lactitol trägt durch Erhöhung der Stuhlfrequenz zu einer normalen Darmfunktion bei.",
+   "conditions": "Die Angabe darf nur für Nahrungsergänzungsmittel verwendet werden, die 10 g Lactitol je angegebene Tagesportion enthalten. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Einnahme von 10 g Lactitol einstellt.",
+   "restrictions": "Die Angabe darf nicht für Lebensmittel verwendet werden, die für Kinder bestimmt sind."
+  },
+  {
+   "nutrient": "Lactulose",
+   "claim": "Lactulose trägt zur Beschleunigung der Darmpassage bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die 10 g Lactulose je angegebene Portion enthalten. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einmaliger Aufnahme von 10 g Lactulose pro Tag einstellt.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Langsam verdauliche Stärke",
+   "claim": "Beim Verzehr von Erzeugnissen mit einem hohen Gehalt an langsam verdaulicher Stärke (SDS) steigt die Blutzuckerkonzentration nach einer Mahlzeit weniger stark an als beim Verzehr von Erzeugnissen mit geringem SDS-Gehalt (*4).",
+   "conditions": "Die Angabe darf nur bei Lebensmitteln verwendet werden, bei denen die verdaulichen Kohlenhydrate mindestens 60 % der gesamten Energieaufnahme liefern und bei denen mindestens 55 % dieser Kohlenhydrate aus verdaulicher Stärke bestehen, wobei diese zu mindestens 40 % aus SDS besteht.",
+   "restrictions": "—"
+  },
+  {
+   "nutrient": "Lebende Joghurtkulturen",
+   "claim": "Die Verdauung der im Produkt enthaltenen Lactose wird durch Lebendkulturen in Joghurt oder fermentierter Milch bei Personen, die Probleme mit der Lactoseverdauung haben, verbessert",
+   "conditions": "Damit die Angabe zulässig ist, sollte der Joghurt bzw. die fermentierte Milch mindestens 108 koloniebildende Einheiten lebender Startermikroorganismen (Lactobacillus delbrueckii subsp. bulgaricus und Streptococcus thermophilus) je Gramm enthalten.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Lebensmittel mit geringem oder reduziertem Gehalt an gesättigten Fettsäuren",
+   "claim": "Eine Reduzierung der Aufnahme an gesättigten Fettsäuren trägt zur Aufrechterhaltung eines normalen Cholesterinspiegels im Blut bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an einen geringen Gehalt an gesättigten Fettsäuren gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe ARM AN GESÄTTIGTEN FETTSÄUREN oder an einen reduzierten Gehalt an gesättigten Fettsäuren gemäß der in der genannten Verordnung aufgeführten Angabe REDUZIERTER [NAME DES NÄHRSTOFFS]-ANTEIL erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Lebensmittel mit geringem oder reduziertem Natriumgehalt",
+   "claim": "Eine Reduzierung der Natrium-Aufnahme trägt zur Aufrechterhaltung eines normalen Blutdrucks bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an einen geringen Gehalt an Natrium/Kochsalz gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe NATRIUMARM/KOCHSALZARM oder an einen reduzierten Natrium-/Kochsalzgehalt gemäß der in der genannten Verordnung aufgeführten Angabe REDUZIERTER [NAME DES NÄHRSTOFFS]-ANTEIL erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Linolsäure",
+   "claim": "Linolsäure trägt zur Aufrechterhaltung eines normalen Cholesterinspiegels im Blut bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die mindestens 1,5 g Linolsäure je 100 g und je 100 kcal bereitstellen. Unterrichtung der Verbraucher, dass sich die positive Wirkung bei einer täglichen Aufnahme von 10 g Linolsäure einstellt.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Magnesium",
+   "claim": "Magnesium trägt zur Verringerung von Müdigkeit und Ermüdung bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Magnesiumquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Magnesium",
+   "claim": "Magnesium trägt zum Elektrolytgleichgewicht bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Magnesiumquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Magnesium",
+   "claim": "Magnesium trägt zu einem normalen Energiestoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Magnesiumquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Magnesium",
+   "claim": "Magnesium trägt zu einer normalen Funktion des Nervensystems bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Magnesiumquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Magnesium",
+   "claim": "Magnesium trägt zu einer normalen Muskelfunktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Magnesiumquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Magnesium",
+   "claim": "Magnesium trägt zu einer normalen Eiweißsynthese bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Magnesiumquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Magnesium",
+   "claim": "Magnesium trägt zur normalen psychischen Funktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Magnesiumquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Magnesium",
+   "claim": "Magnesium trägt zur Erhaltung normaler Knochen bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Magnesiumquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Magnesium",
+   "claim": "Magnesium trägt zur Erhaltung normaler Zähne bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Magnesiumquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Magnesium",
+   "claim": "Magnesium hat eine Funktion bei der Zellteilung",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Magnesiumquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Mahlzeitersatz für eine gewichtskontrollierende Ernährung",
+   "claim": "Das Ersetzen von einer der täglichen Hauptmahlzeiten im Rahmen einer kalorienarmen Ernährung durch einen solchen Mahlzeitersatz trägt dazu bei, das Gewicht nach Gewichtsabnahme zu halten",
+   "conditions": "Damit die Angabe zulässig ist, sollte das Lebensmittel folgenden Anforderungen entsprechen: 1. Energiegehalt Der Energiegehalt darf nicht weniger als 200 kcal (840 kJ) und nicht mehr als 250 kcal (1 046 kJ) je Mahlzeit betragen (*8). 2. Fettgehalt und -zusammensetzung Der Brennwert der Fette darf 30 % des gesamten Brennwertes des Erzeugnisses nicht überschreiten. Die Erzeugnisse müssen mindestens 1 g Linolsäure (in Form von Glyceriden) enthalten. 3. Proteingehalt und -zusammensetzung Der Brennwert des Lebensmittels muss zu mindestens 25 und höchstens 50 % auf Proteine entfallen. Der chemische Proteinindex muss dem Index entsprechen, den die Weltgesundheitsorganisation in ihren „Energy and protein requirements“ (Brennwert- und Proteinanforderungen) festgelegt hat. Bericht einer gemeinsamen FAO/WHO/UNU-Tagung. Genf: Weltgesundheitsorganisation, 1985 (WHO Technical Report Series: 724). Anforderungsschema für Aminosäuren (g/100 g Protein) Cystin + Methionin 1,7 Histidin 1,6 Isoleucin 1,3 Leucin 1,9 Lysin 1,6 Phenylalanin + Tyrosin 1,9 Threonin 0,9 Tryptophan 0,5 Valin 1,3 Der chemische Index ist das kleinste Verhältnis zwischen der Menge der einzelnen essentiellen Aminosäuren des Testproteins und der Menge der entsprechenden Aminosäure des Referenzproteins. Liegt der chemische Index unter 100 % des Indexes des Referenzproteins, ist der Mindestproteingehalt entsprechend zu erhöhen. Der chemische Index des Proteins muss in jedem Fall zumindest bei 80 % des Indexes des Referenzproteins liegen. In allen Fällen ist der Zusatz von Aminosäuren nur zur Verbesserung des Nährwerts der Proteine und in den hierfür notwendigen Mengen gestattet. 4. Vitamine und Mineralstoffe Die Lebensmittel müssen je Mahlzeit mindestens 30 % der Nährstoffbezugswerte für Vitamine und Mineralstoffe gemäß Anhang XIII der Verordnung (EU) Nr. 1169/2011 enthalten. Diese Vorschrift gilt nicht für Fluorid, Chrom, Chlorid und Molybdän. Die Natriummenge in einem Lebensmittel muss je Mahlzeit mindestens 172,5 mg betragen. Die Kaliummenge in einem Lebensmittel je Mahlzeit muss mindestens 500 mg betragen (*9).",
+   "restrictions": "Cystin + Methionin"
+  },
+  {
+   "nutrient": "Mahlzeitersatz für eine gewichtskontrollierende Ernährung",
+   "claim": "Das Ersetzen von zwei der täglichen Hauptmahlzeiten im Rahmen einer kalorienarmen Ernährung durch einen solchen Mahlzeitersatz trägt zu Gewichtsabnahme bei",
+   "conditions": "Damit die Angabe zulässig ist, sollte das Lebensmittel folgenden Anforderungen entsprechen: 1. Energiegehalt Der Energiegehalt darf nicht weniger als 200 kcal (840 kJ) und nicht mehr als 250 kcal (1 046 kJ) je Mahlzeit betragen (*8). 2. Fettgehalt und -zusammensetzung Der Brennwert der Fette darf 30 % des gesamten Brennwertes des Erzeugnisses nicht überschreiten. Die Erzeugnisse müssen mindestens 1 g Linolsäure (in Form von Glyceriden) enthalten. 3. Proteingehalt und -zusammensetzung Der Brennwert des Lebensmittels muss zu mindestens 25 und höchstens 50 % auf Proteine entfallen. Der chemische Proteinindex muss dem Index entsprechen, den die Weltgesundheitsorganisation in ihren „Energy and protein requirements“ (Brennwert- und Proteinanforderungen) festgelegt hat. Bericht einer gemeinsamen FAO/WHO/UNU-Tagung. Genf: Weltgesundheitsorganisation, 1985 (WHO Technical Report Series: 724). Anforderungsschema für Aminosäuren (g/100 g Protein) Cystin + Methionin 1,7 Histidin 1,6 Isoleucin 1,3 Leucin 1,9 Lysin 1,6 Phenylalanin + Tyrosin 1,9 Threonin 0,9 Tryptophan 0,5 Valin 1,3 Der chemische Index ist das kleinste Verhältnis zwischen der Menge der einzelnen essentiellen Aminosäuren des Testproteins und der Menge der entsprechenden Aminosäure des Referenzproteins. Liegt der chemische Index unter 100 % des Indexes des Referenzproteins, ist der Mindestproteingehalt entsprechend zu erhöhen. Der chemische Index des Proteins muss in jedem Fall zumindest bei 80 % des Indexes des Referenzproteins liegen. In allen Fällen ist der Zusatz von Aminosäuren nur zur Verbesserung des Nährwerts der Proteine und in den hierfür notwendigen Mengen gestattet. 4. Vitamine und Mineralstoffe Die Lebensmittel müssen je Mahlzeit mindestens 30 % der Nährstoffbezugswerte für Vitamine und Mineralstoffe gemäß Anhang XIII der Verordnung (EU) Nr. 1169/2011 enthalten. Diese Vorschrift gilt nicht für Fluorid, Chrom, Chlorid und Molybdän. Die Natriummenge in einem Lebensmittel muss je Mahlzeit mindestens 172,5 mg betragen. Die Kaliummenge in einem Lebensmittel je Mahlzeit muss mindestens 500 mg betragen (*9).",
+   "restrictions": "Cystin + Methionin"
+  },
+  {
+   "nutrient": "Mangan",
+   "claim": "Mangan trägt zu einem normalen Energiestoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Manganquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Mangan",
+   "claim": "Mangan trägt zur Erhaltung normaler Knochen bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Manganquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Mangan",
+   "claim": "Mangan trägt zu einer normalen Bindegewebsbildung bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Manganquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Mangan",
+   "claim": "Mangan trägt dazu bei, die Zellen vor oxidativem Stress zu schützen",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Manganquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Melatonin",
+   "claim": "Melatonin trägt zur Linderung der subjektiven Jetlag-Empfindung bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die mindestens 0,5 mg Melatonin je angegebene Portion enthalten. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung einstellt, wenn am ersten Reisetag kurz vor dem Schlafengehen sowie an den ersten Tagen nach Ankunft am Zielort mindestens 0,5 mg aufgenommen werden.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Melatonin",
+   "claim": "Melatonin trägt dazu bei, die Einschlafzeit zu verkürzen",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die 1 mg Melatonin je angegebene Portion enthalten. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung einstellt, wenn kurz vor dem Schlafengehen 1 mg Melatonin aufgenommen wird.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Molybdän",
+   "claim": "Molybdän trägt zu einer normalen Verstoffwechslung schwefelhaltiger Aminosäuren bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Molybdänquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Natives Zichorieninulin",
+   "claim": "Zichorieninulin trägt durch Erhöhung der Stuhlfrequenz zu einer normalen Darmfunktion bei (*7)",
+   "conditions": "Die Verbraucher sind darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 12 g Zichorieninulin einstellt. Die Angabe darf nur für Lebensmittel verwendet werden, deren Verzehr eine tägliche Aufnahme von mindestens 12 g nativem Zichorieninulin liefert, einer nicht fraktionierten Mischung von Monosacchariden (< 10 %), Disacchariden, inulinartigen Fructanen und aus Zichorienwurzeln gewonnenem Inulin mit einem mittleren Polymerisationsgrad von ≥ 9.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Neuformuliertes alkoholfreies säuerliches Getränk mit — weniger als 1 g gärfähigem Kohlenhydrat pro 100 ml (Zucker und sonstige Kohlen-hydrate mit Ausnahme von mehrwertigen Alkoholen); — einem Calciumgehalt zwischen 0,3 und 0,8 mol pro mol Säuerungs-mittel; — Anzeige eines pH-Werts zwischen 3,7 und 4,0.",
+   "claim": "Wer zuckerhaltige säuerliche Getränke wie Soft Drinks (die typischerweise 8-12 g Zucker/100 ml enthalten) durch neuformulierte Getränke ersetzt, trägt zur Erhaltung der Minieralisierung der Zähne bei (*3).",
+   "conditions": "Neuformulierte säuerliche Getränke dürfen nur dann mit der Angabe versehen werden, wenn sie der Beschreibung des Lebensmittels entsprechen, zu dem die Angabe gemacht wird.",
+   "restrictions": "—"
+  },
+  {
+   "nutrient": "Niacin",
+   "claim": "Niacin trägt zu einem normalen Energiestoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Niacinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Niacin",
+   "claim": "Niacin trägt zu einer normalen Funktion des Nervensystems bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Niacinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Niacin",
+   "claim": "Niacin trägt zur normalen psychischen Funktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Niacinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Niacin",
+   "claim": "Niacin trägt zur Erhaltung normaler Schleimhäute bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Niacinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Niacin",
+   "claim": "Niacin trägt zur Erhaltung normaler Haut bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Niacinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Niacin",
+   "claim": "Niacin trägt zur Verringerung von Müdigkeit und Ermüdung bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Niacinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Nicht fermentierbare Kohlenhydrate",
+   "claim": "Der Verzehr von Lebensmitteln/Getränken, die anstelle von fermentierbaren Kohlenhydraten <Bezeichnung aller verwendeten nicht fermentierbaren Kohlenhydrate> enthalten, trägt zur Erhaltung der Zahnmineralisierung bei.",
+   "conditions": "Damit die Angabe zulässig ist, sollten fermentierbare Kohlenhydrate (1**) in Lebensmitteln oder Getränken durch nicht fermentierbare Kohlenhydrate (2***) ersetzt werden, und zwar in solchen Anteilen, dass der Verzehr dieser Lebensmittel oder Getränke den pH-Wert des Zahnbelags während des Verzehrs und bis 30 Minuten nach dem Verzehr nicht unter 5,7 absenkt. (1**) Fermentierbare Kohlenhydrate werden definiert als in Lebensmitteln oder Getränken verzehrte Kohlenhydrate oder Kohlenhydratmischungen, die den in vivo oder in situ durch pH- Telemetrietests bestimmten pH-Wert des Zahnbelags während des Verzehrs und bis 30 Minuten nach dem Verzehr durch bakterielle Fermentation unter 5,7 absenken. (2***) Nicht fermentierbare Kohlenhydrate werden definiert als in Lebensmitteln oder Getränken verzehrte Kohlenhydrate oder Kohlenhydratmischungen, die den in vivo oder in situ durch pH-Telemetrietests bestimmten pH-Wert des Zahnbelags während des Verzehrs und bis 30 Minuten nach dem Verzehr durch bakterielle Fermentation nicht unter einen konservativen Wert von 5,7 absenken.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Olivenöl-Polyphenole",
+   "claim": "Olivenöl-Polyphenole tragen dazu bei, die Blutfette vor oxidativem Stress zu schützen",
+   "conditions": "Die Angabe darf nur für Olivenöl verwendet werden, das mindestens 5 mg Hydroxytyrosol und dessen Derivate (z. B. Oleuropein-Komplex und Tyrosol) je 20 g Olivenöl enthält. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 20 g Olivenöl einstellt.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Ölsäure",
+   "claim": "Der Ersatz von gesättigten Fettsäuren durch ungesättigte Fettsäuren in der Ernährung trägt zur Aufrechterhaltung eines normalen Cholesterinspiegels im Blut bei. Ölsäure ist eine ungesättigte Fettsäure",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die einen hohen Gehalt an ungesättigten Fettsäuren gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe MIT EINEM HOHEN GEHALT AN UNGESÄTTIGTEN FETTSÄUREN aufweisen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Pantothensäure",
+   "claim": "Pantothensäure trägt zu einem normalen Energiestoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Pantothensäurequelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Pantothensäure",
+   "claim": "Pantothensäure trägt zu einer normalen Synthese und zu einem normalen Stoffwechsel von Steroidhormonen, Vitamin D und einigen Neurotransmittern bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Pantothensäurequelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Pantothensäure",
+   "claim": "Pantothensäure trägt zur Verringerung von Müdigkeit und Ermüdung bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Pantothensäurequelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Pantothensäure",
+   "claim": "Pantothensäure trägt zu einer normalen geistigen Leistung bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Pantothensäurequelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Pektine",
+   "claim": "Pektine tragen zur Aufrechterhaltung eines normalen Cholesterinspiegels im Blut bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, deren Verzehr eine tägliche Aufnahme von 6 g Pektinen gewährleistet. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von 6 g Pektinen einstellt.",
+   "restrictions": "Warnung, dass bei Verbrauchern mit Schluckbeschwerden oder bei unzureichender Flüssigkeitszufuhr Erstickungsgefahr besteht — Empfehlung der Einnahme mit reichlich Wasser, damit die Pektine in den Magen gelangen."
+  },
+  {
+   "nutrient": "Pektine",
+   "claim": "Die Aufnahme von Pektinen im Rahmen einer Mahlzeit trägt dazu bei, dass der Blutzuckerspiegel nach der Mahlzeit weniger stark ansteigt",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die 10 g Pektine je angegebene Portion enthalten. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung einstellt, wenn 10 g Pektine als Bestandteil der Mahlzeit aufgenommen werden.",
+   "restrictions": "Warnung, dass bei Verbrauchern mit Schluckbeschwerden oder bei unzureichender Flüssigkeitszufuhr Erstickungsgefahr besteht — Empfehlung der Einnahme mit reichlich Wasser, damit die Pektine in den Magen gelangen."
+  },
+  {
+   "nutrient": "Phosphor",
+   "claim": "Phosphor trägt zu einem normalen Energiestoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Phosphorquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Phosphor",
+   "claim": "Phosphor trägt zu einer normalen Funktion der Zellmembran bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Phosphorquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Phosphor",
+   "claim": "Phosphor trägt zur Erhaltung normaler Knochen bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Phosphorquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Phosphor",
+   "claim": "Phosphor trägt zur Erhaltung normaler Zähne bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Phosphorquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Phytosterine und Phytostanole",
+   "claim": "Phytosterine/Phytostanole tragen zur Aufrechterhaltung eines normalen Cholesterinspiegels im Blut bei",
+   "conditions": "Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von mindestens 0,8 g Phytosterinen/Phytostanolen einstellt.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Proteine",
+   "claim": "Proteine tragen zu einer Zunahme an Muskelmasse bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Proteinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe PROTEINQUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Proteine",
+   "claim": "Proteine tragen zur Erhaltung von Muskelmasse bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Proteinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe PROTEINQUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Proteine",
+   "claim": "Proteine tragen zur Erhaltung normaler Knochen bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Proteinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe PROTEINQUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Resistente Stärke",
+   "claim": "Der Ersatz von verdaulicher Stärke durch resistente Stärke in einer Mahlzeit trägt dazu bei, dass der Blutzuckerspiegel nach der Mahlzeit weniger stark ansteigt",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, in denen die verdauliche Stärke durch resistente Stärke ersetzt wurde, wobei der Anteil der resistenten Stärke am Stärkegehalt insgesamt mindestens 14 % beträgt.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Riboflavin (Vitamin B2)",
+   "claim": "Riboflavin trägt zu einem normalen Energiestoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Riboflavinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Riboflavin (Vitamin B2)",
+   "claim": "Riboflavin trägt zu einer normalen Funktion des Nervensystems bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Riboflavinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Riboflavin (Vitamin B2)",
+   "claim": "Riboflavin trägt zur Erhaltung normaler Schleimhäute bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Riboflavinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Riboflavin (Vitamin B2)",
+   "claim": "Riboflavin trägt zur Erhaltung normaler roter Blutkörperchen bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Riboflavinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Riboflavin (Vitamin B2)",
+   "claim": "Riboflavin trägt zur Erhaltung normaler Haut bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Riboflavinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Riboflavin (Vitamin B2)",
+   "claim": "Riboflavin trägt zur Erhaltung normaler Sehkraft bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Riboflavinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Riboflavin (Vitamin B2)",
+   "claim": "Riboflavin trägt zu einem normalen Eisenstoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Riboflavinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Riboflavin (Vitamin B2)",
+   "claim": "Riboflavin trägt dazu bei, die Zellen vor oxidativem Stress zu schützen",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Riboflavinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Riboflavin (Vitamin B2)",
+   "claim": "Riboflavin trägt zur Verringerung von Müdigkeit und Ermüdung bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Riboflavinquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Roggen-Ballaststoffe",
+   "claim": "Roggen-Ballaststoffe tragen zu einer normalen Darmfunktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die einen hohen Gehalt an diesem Ballaststoff gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe HOHER BALLASTSTOFFGEHALT haben.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Selen",
+   "claim": "Selen trägt zu einer normalen Spermabildung bei",
+   "conditions": "Diese Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Selenquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Selen",
+   "claim": "Selen trägt zur Erhaltung normaler Haare bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Selenquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Selen",
+   "claim": "Selen trägt zur Erhaltung normaler Nägel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Selenquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Selen",
+   "claim": "Selen trägt zu einer normalen Funktion des Immunsystems bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Selenquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Selen",
+   "claim": "Selen trägt zu einer normalen Schilddrüsenfunktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Selenquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Selen",
+   "claim": "Selen trägt dazu bei, die Zellen vor oxidativem Stress zu schützen",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Selenquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Thiamin",
+   "claim": "Thiamin trägt zu einem normalen Energiestoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Thiaminquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Thiamin",
+   "claim": "Thiamin trägt zu einer normalen Funktion des Nervensystems bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Thiaminquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Thiamin",
+   "claim": "Thiamin trägt zur normalen psychischen Funktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Thiaminquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Thiamin",
+   "claim": "Thiamin trägt zu einer normalen Herzfunktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Thiaminquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Unverdauliche Kohlenhydrate",
+   "claim": "Der Verzehr von Lebensmitteln/Getränken, die anstelle von Zucker <Bezeichnung aller verwendeten unverdaulichen Kohlenhydrate> enthalten, bewirkt, dass der Blutzuckerspiegel nach ihrem Verzehr weniger stark ansteigt als beim Verzehr von zuckerhaltigen Lebensmitteln/Getränken.",
+   "conditions": "Damit die Angabe zulässig ist, sollten Zucker in Lebensmitteln oder Getränken durch unverdauliche Kohlenhydrate ersetzt werden, die im Dünndarm weder verdaut noch absorbiert werden, sodass der Zuckergehalt der Lebensmittel oder Getränke mindestens um den in der Angabe REDUZIERTER [NAME DES NÄHRSTOFFS]-Anteil gemäß dem Anhang der Verordnung (EG) Nr. 1924/2006 genannten Anteil reduziert ist.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin A",
+   "claim": "Vitamin A trägt zu einem normalen Eisenstoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-A-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin A",
+   "claim": "Vitamin A trägt zur Erhaltung normaler Schleimhäute bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-A-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin A",
+   "claim": "Vitamin A trägt zur Erhaltung normaler Haut bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-A-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin A",
+   "claim": "Vitamin A trägt zur Erhaltung normaler Sehkraft bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-A-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin A",
+   "claim": "Vitamin A trägt zu einer normalen Funktion des Immunsystems bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-A-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin A",
+   "claim": "Vitamin A hat eine Funktion bei der Zellspezialisierung",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-A-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin B12",
+   "claim": "Vitamin B12 trägt zu einem normalen Energiestoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-B12-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin B12",
+   "claim": "Vitamin B12 trägt zu einer normalen Funktion des Nervensystems bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-B12-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin B12",
+   "claim": "Vitamin B12 trägt zu einem normalen Homocystein-Stoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-B12-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin B12",
+   "claim": "Vitamin B12 trägt zur normalen psychischen Funktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-B12-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin B12",
+   "claim": "Vitamin B12 trägt zu einer normalen Bildung roter Blutkörperchen bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-B12-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin B12",
+   "claim": "Vitamin B12 trägt zu einer normalen Funktion des Immunsystems bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-B12-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin B12",
+   "claim": "Vitamin B12 trägt zur Verringerung von Müdigkeit und Ermüdung bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-B12-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin B12",
+   "claim": "Vitamin B12 hat eine Funktion bei der Zellteilung",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-B12-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin B6",
+   "claim": "Vitamin B6 trägt zu einer normalen Cystein-Synthese bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-B6-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin B6",
+   "claim": "Vitamin B6 trägt zu einem normalen Energiestoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-B6-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin B6",
+   "claim": "Vitamin B6 trägt zu einer normalen Funktion des Nervensystems bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-B6-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin B6",
+   "claim": "Vitamin B6 trägt zu einem normalen Homocystein-Stoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-B6-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin B6",
+   "claim": "Vitamin B6 trägt zu einem normalen Eiweiß- und Glycogenstoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-B6-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin B6",
+   "claim": "Vitamin B6 trägt zur normalen psychischen Funktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-B6-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin B6",
+   "claim": "Vitamin B6 trägt zur normalen Bildung roter Blutkörperchen bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-B6-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin B6",
+   "claim": "Vitamin B6 trägt zu einer normalen Funktion des Immunsystems bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-B6-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin B6",
+   "claim": "Vitamin B6 trägt zur Verringerung von Müdigkeit und Ermüdung bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-B6-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin B6",
+   "claim": "Vitamin B6 trägt zur Regulierung der Hormontätigkeit bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-B6-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin C",
+   "claim": "Vitamin C trägt zu einer normalen Funktion des Immunsystems während und nach intensiver körperlicher Betätigung bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, deren Verzehr eine tägliche Aufnahme von 200 mg Vitamin C gewährleistet. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung einstellt, wenn zusätzlich zu der empfohlenen Tagesdosis an Vitamin C täglich 200 mg eingenommen werden.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin C",
+   "claim": "Vitamin C trägt zu einer normalen Kollagenbildung für eine normale Funktion der Blutgefäße bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-C-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin C",
+   "claim": "Vitamin C trägt zu einer normalen Kollagenbildung für eine normale Funktion der Knochen",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-C-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin C",
+   "claim": "Vitamin C trägt zu einer normalen Kollagenbildung für eine normale Knorpelfunktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-C-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin C",
+   "claim": "Vitamin C trägt zu einer normalen Kollagenbildung für eine normale Funktion des Zahnfleisches bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-C-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin C",
+   "claim": "Vitamin C trägt zu einer normalen Kollagenbildung für eine normale Funktion der Haut bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-C-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin C",
+   "claim": "Vitamin C trägt zu einer normalen Kollagenbildung für eine normale Funktion der Zähne bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-C-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin C",
+   "claim": "Vitamin C trägt zu einem normalen Energiestoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-C-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin C",
+   "claim": "Vitamin C trägt zu einer normalen Funktion des Nervensystems bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-C-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin C",
+   "claim": "Vitamin C trägt zur normalen psychischen Funktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-C-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin C",
+   "claim": "Vitamin C trägt zu einer normalen Funktion des Immunsystems bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-C-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin C",
+   "claim": "Vitamin C trägt dazu bei, die Zellen vor oxidativem Stress zu schützen",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-C-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin C",
+   "claim": "Vitamin C trägt zur Verringerung von Müdigkeit und Ermüdung bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-C-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin C",
+   "claim": "Vitamin C trägt zur Regeneration der reduzierten Form von Vitamin E bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-C-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin C",
+   "claim": "Vitamin C erhöht die Eisenaufnahme",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-C-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin D",
+   "claim": "Vitamin D trägt zu einer normalen Aufnahme/Verwertung von Calcium und Phosphor bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-D-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin D",
+   "claim": "Vitamin D trägt zu einem normalen Calciumspiegel im Blut bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-D-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin D",
+   "claim": "Vitamin D trägt zur Erhaltung normaler Knochen bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-D-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin D",
+   "claim": "Vitamin D trägt zur Erhaltung einer normalen Muskelfunktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-D-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin D",
+   "claim": "Vitamin D trägt zur Erhaltung normaler Zähne bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-D-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin D",
+   "claim": "Vitamin D trägt zu einer normalen Funktion des Immunsystems bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-D-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin D",
+   "claim": "Vitamin D hat eine Funktion bei der Zellteilung",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-D-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin E",
+   "claim": "Vitamin E trägt dazu bei, die Zellen vor oxidativem Stress zu schützen",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-E-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin K",
+   "claim": "Vitamin K trägt zu einer normalen Blutgerinnung bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-K-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Vitamin K",
+   "claim": "Vitamin K trägt zur Erhaltung normaler Knochen bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Vitamin-K-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Walnüsse",
+   "claim": "Walnüsse tragen dazu bei, die Elastizität der Blutgefäße zu verbessern",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die eine tägliche Verzehrsmenge von 30 g Walnüssen gewährleisten. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einem täglichen Verzehr von 30 g Walnüssen einstellt.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Wasser",
+   "claim": "Wasser trägt zur Erhaltung normaler körperlicher und kognitiver Funktionen bei",
+   "conditions": "Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass täglich mindestens 2,0 l Wasser (aus allen Quellen) verzehrt werden sollten, um die angegebene Wirkung zu erzielen.",
+   "restrictions": "Die Angabe darf nur für Wasser verwendet werden, das den Anforderungen der Richtlinien 2009/54/EG und/oder 98/83/EG genügt."
+  },
+  {
+   "nutrient": "Wasser",
+   "claim": "Wasser trägt zur Erhaltung einer normalen Regulierung der Körpertemperatur bei",
+   "conditions": "Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass täglich mindestens 2,0 l Wasser (aus allen Quellen) verzehrt werden sollten, um die angegebene Wirkung zu erzielen.",
+   "restrictions": "Die Angabe darf nur für Wasser verwendet werden, das den Anforderungen der Richtlinien 2009/54/EG und/oder 98/83/EG genügt."
+  },
+  {
+   "nutrient": "Weizenkleie",
+   "claim": "Weizenkleie trägt zur Beschleunigung der Darmpassage bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die einen hohen Gehalt an diesem Ballaststoff gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe HOHER BALLASTSTOFFGEHALT haben. Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von mindestens 10 g Weizenkleie einstellt.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Weizenkleie",
+   "claim": "Weizenkleie trägt zur Erhöhung des Stuhlvolumens bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die einen hohen Gehalt an diesem Ballaststoff gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe HOHER BALLASTSTOFFGEHALT haben.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zink",
+   "claim": "Zink trägt zu einem normalen Säure-Basen-Stoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Zinkquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zink",
+   "claim": "Zink trägt zu einem normalen Kohlenhydrat-Stoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Zinkquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zink",
+   "claim": "Zink trägt zu einer normalen kognitiven Funktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Zinkquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zink",
+   "claim": "Zink trägt zu einer normalen DNA-Synthese bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Zinkquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zink",
+   "claim": "Zink trägt zu einer normalen Fruchtbarkeit und einer normalen Reproduktion bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Zinkquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zink",
+   "claim": "Zink trägt zu einem normalen Stoffwechsel von Makronährstoffen bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Zinkquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zink",
+   "claim": "Zink trägt zu einem normalen Fettsäurestoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Zinkquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zink",
+   "claim": "Zink trägt zu einem normalen Vitamin-A-Stoffwechsel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Zinkquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zink",
+   "claim": "Zink trägt zu einer normalen Eiweißsynthese bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Zinkquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zink",
+   "claim": "Zink trägt zur Erhaltung normaler Knochen bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Zinkquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zink",
+   "claim": "Zink trägt zur Erhaltung normaler Haare bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Zinkquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zink",
+   "claim": "Zink trägt zur Erhaltung normaler Nägel bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Zinkquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zink",
+   "claim": "Zink trägt zur Erhaltung normaler Haut bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Zinkquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zink",
+   "claim": "Zink trägt zur Erhaltung eines normalen Testosteronspiegels im Blut bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Zinkquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zink",
+   "claim": "Zink trägt zur Erhaltung normaler Sehkraft bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Zinkquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zink",
+   "claim": "Zink trägt zu einer normalen Funktion des Immunsystems bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Zinkquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zink",
+   "claim": "Zink trägt dazu bei, die Zellen vor oxidativem Stress zu schützen",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Zinkquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zink",
+   "claim": "Zink hat eine Funktion bei der Zellteilung",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Zinkquelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe [NAME DES VITAMINS/DER VITAMINE] UND/ODER [NAME DES MINERALSTOFFS/DER MINERALSTOFFE]-QUELLE erfüllen.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zuckerrübenfasern",
+   "claim": "Zuckerrübenfasern tragen zur Erhöhung des Stuhlvolumens bei",
+   "conditions": "Die Angabe darf nur für Lebensmittel verwendet werden, die einen hohen Gehalt an diesem Ballaststoff gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe HOHER BALLASTSTOFFGEHALT haben.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zuckerersatzstoffe, d. h. stark süßende Verbindungen; Xylit, Sorbit, Mannit, Maltit, Lactit, Isomalt, Erythrit, Sucralose und Polydextrose; D-Tagatose und Isomaltulose",
+   "claim": "Der Verzehr von Lebensmitteln/Getränken, die anstelle von Zucker <name of sugar replacer> (*1) enthalten, bewirkt, dass der Blutzuckerspiegel nach ihrem Verzehr weniger stark ansteigt als beim Verzehr von zuckerhaltigen Lebensmitteln/Getränken",
+   "conditions": "Damit die Angabe zulässig ist, sollten Zuckerarten im Lebensmittel bzw. Getränk durch Zuckerersatzstoffe, d. h. stark süßende Verbindungen, Xylit, Sorbit, Mannit, Maltit, Lactit, Isomalt, Erythrit, Sucralose oder Polydextrose bzw. durch eine Kombination dieser Stoffe ersetzt werden, so dass der Zuckergehalt des Lebensmittels bzw. Getränks mindestens um den in der Angabe REDUZIERTER [NAME DES NÄHRSTOFFS]-Anteil gemäß dem Anhang der Verordnung (EG) Nr. 1924/2006 genannten Anteil reduziert ist. Mit D-Tagatose und Isomaltulose sollten vergleichbare Anteile anderer Zuckerarten im gleichen Verhältnis wie in der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe REDUZIERTER [NAME DES NÄHRSTOFFS]-Anteil ersetzt werden.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zuckerersatzstoffe, d. h. stark süßende Verbindungen; Xylit, Sorbit, Mannit, Maltit, Lactit, Isomalt, Erythrit, Sucralose und Polydextrose; D-Tagatose und Isomaltulose",
+   "claim": "Der Verzehr von Lebensmitteln/Getränken, die anstelle von Zucker <name of sugar replacer> (*2) enthalten, trägt zur Erhaltung der Zahnmineralisierung bei",
+   "conditions": "Damit die Angabe zulässig ist, sollten Zuckerarten in Lebensmitteln bzw. Getränken (die den pH-Wert des Zahnbelags unter 5,7 absenken) durch Zuckerersatzstoffe, d. h. stark süßende Verbindungen, Xylit, Sorbit, Mannit, Maltit, Lactit, Isomalt, Erythrit, D-tagatose, Isomaltulose, Sucralose oder Polydextrose bzw. durch eine Kombination aus diesen Stoffen ersetzt werden, und zwar in solchen Anteilen, dass der Verzehr dieser Lebensmittel bzw. Getränke den pH-Wert des Zahnbelags während des Verzehrs und bis 30 Minuten nach dem Verzehr nicht unter 5,7 absenkt.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zuckerfreier Kaugummi",
+   "claim": "Zuckerfreier Kaugummi trägt zur Erhaltung der Zahnmineralisierung bei",
+   "conditions": "Die Angabe darf nur für Kaugummi verwendet werden, der den Verwendungsbedingungen für die im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführte nährwertbezogene Angabe ZUCKERFREI entspricht. Unterrichtung der Verbraucher, dass sich die positive Wirkung bei mindestens 20-minütigem Kauen nach dem Essen oder Trinken einstellt.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zuckerfreier Kaugummi",
+   "claim": "Zuckerfreier Kaugummi trägt zur Neutralisierung der Säuren des Zahnbelags bei",
+   "conditions": "Die Angabe darf nur für Kaugummi verwendet werden, der den Verwendungsbedingungen für die im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführte nährwertbezogene Angabe ZUCKERFREI entspricht. Unterrichtung der Verbraucher, dass sich die positive Wirkung bei mindestens 20-minütigem Kauen nach dem Essen oder Trinken einstellt.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zuckerfreier Kaugummi",
+   "claim": "Zuckerfreier Kaugummi trägt zur Verringerung von Mundtrockenheit bei",
+   "conditions": "Die Angabe darf nur für Kaugummi verwendet werden, der den Verwendungsbedingungen für die im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführte nährwertbezogene Angabe ZUCKERFREI entspricht. Unterrichtung der Verbraucher, dass sich die positive Wirkung einstellt, wenn der Kaugummi jedes Mal bei Trockenheitsgefühl im Mund verwendet wird.",
+   "restrictions": ""
+  },
+  {
+   "nutrient": "Zuckerfreier Kaugummi mit Carbamid",
+   "claim": "Zuckerfreier Kaugummi mit Carbamid neutralisiert die Säuren des Zahnbelags wirksamer als zuckerfreier Kaugummi ohne Carbamid",
+   "conditions": "Die Angabe darf nur für Kaugummi verwendet werden, der den Verwendungsbedingungen für die im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführte nährwertbezogene Angabe ZUCKERFREI entspricht. Damit die Angabe zulässig ist, sollte jedes Stück zuckerfreier Kaugummi mindestens 20 mg Carbamid enthalten. Unterrichtung der Verbraucher, dass der Kaugummi nach dem Essen oder Trinken mindestens 20 Minuten lang gekaut werden sollte.",
+   "restrictions": ""
+  }
+ ]
+}

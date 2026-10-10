@@ -1,0 +1,286 @@
+{
+  "source": "https://shop1.de/wp-json/wc/store/v1/products",
+  "captured_at": "2026-09-26T15:08:20.6792791+02:00",
+  "simple": {
+    "id": 24294,
+    "name": "Marías ORGANIC SUN Sonnencreme Face &#038; Body LSF 50, 15 ml",
+    "permalink": "https://shop1.de/produkt/marias-organic-sun-sonnencreme-face-body-lsf-50-15-ml/",
+    "description": "<p><strong>Anwendung:</strong> Vor dem Aufenthalt in der Sonne großzügig verteilen. Um den Sonnenschutz aufrecht zu erhalten, mehrfach auftragen, insbesondere nach dem Schwimmen, Abtrocknen oder Schwitzen. Kinder unter drei Jahren nicht direkter Sonneneinstrahlung aussetzen. Vermeiden Sie trotz Sonnenschutzmittel den Aufenthalt in der Mittagssonne sowie die exzessive Sonnenexposition. Tragen Sie schützende Kleidung, Hüte und Sonnenbrillen – das gilt vor allem für Babys und Kleinkinder.</p>",
+    "short_description": "<ul>\n<li>LSF50, Sofortschutz</li>\n<li><i class=\"fa fa-check-circle\"></i>verlässlicher UVA und UVB Schutz</li>\n<li><i class=\"fa fa-check-circle\"></i>wasserfest, korallenfreundlich</li>\n<li><i class=\"fa fa-check-circle\"></i>auch für empfindliche Haut geeignet</li>\n<li><i class=\"fa fa-check-circle\"></i>perfekt für die Handtasche</li>\n</ul>",
+    "variation": "",
+    "prices": {
+      "price": "990",
+      "regular_price": "990",
+      "sale_price": "990",
+      "price_range": null,
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": ".",
+      "currency_prefix": "",
+      "currency_suffix": " €"
+    },
+    "categories": [
+      {
+        "id": 230,
+        "name": "NEUE Produkte",
+        "slug": "neue-produkte",
+        "link": "https://shop1.de/produkt-kategorie/neue-produkte/"
+      },
+      {
+        "id": 372,
+        "name": "Sonnenschutz",
+        "slug": "sonnenschutz",
+        "link": "https://shop1.de/produkt-kategorie/sonnenschutz/"
+      },
+      {
+        "id": 231,
+        "name": "Pröbchen / Produkte To Go",
+        "slug": "proebchen",
+        "link": "https://shop1.de/produkt-kategorie/proebchen/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 337,
+        "name": "Marías Biokosmetik",
+        "slug": "marias-biokosmetik",
+        "link": "https://shop1.de/produkt-schlagwort/marias-biokosmetik/"
+      },
+      {
+        "id": 85,
+        "name": "Frauen",
+        "slug": "frauen",
+        "link": "https://shop1.de/produkt-schlagwort/frauen/"
+      },
+      {
+        "id": 87,
+        "name": "Männer",
+        "slug": "maenner",
+        "link": "https://shop1.de/produkt-schlagwort/maenner/"
+      },
+      {
+        "id": 88,
+        "name": "Kinder",
+        "slug": "kinder",
+        "link": "https://shop1.de/produkt-schlagwort/kinder/"
+      }
+    ],
+    "has_options": false,
+    "on_sale": false,
+    "is_password_protected": false
+  },
+  "variable": {
+    "id": 21761,
+    "name": "100% PURE Creamy Long Last Eyeliner (versch. Farben)",
+    "permalink": "https://shop1.de/produkt/100-pure-creamy-long-last-eyeliner-versch-farben/",
+    "description": "<div class=\"shortdesc\">\n<p><span style=\"text-decoration: underline\"><strong>Farben:</strong></span></p>",
+    "short_description": "<div class=\"shortdesc\">\n<div class=\"shortdesc\"><strong>Cremiger, lang anhaltender Kajalstift</strong>, der sich leicht auf die Lider auftragen lässt, um die Augen zu umranden und zu definieren, und die Haut mit <strong>Jojobaöl</strong> pflegt.</div>\n</div>",
+    "variation": "",
+    "prices": {
+      "price": "2650",
+      "regular_price": "2650",
+      "sale_price": "2650",
+      "price_range": null,
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": ".",
+      "currency_prefix": "",
+      "currency_suffix": " €"
+    },
+    "categories": [
+      {
+        "id": 230,
+        "name": "NEUE Produkte",
+        "slug": "neue-produkte",
+        "link": "https://shop1.de/produkt-kategorie/neue-produkte/"
+      },
+      {
+        "id": 423,
+        "name": "Hyperpigmentierung",
+        "slug": "hyperpigmentierung",
+        "link": "https://shop1.de/produkt-kategorie/sortiert-nach-hautthematiken/hyperpigmentierung/"
+      },
+      {
+        "id": 427,
+        "name": "Sonnenbrand / After-Sun Pflege",
+        "slug": "sonnenbrand-after-sun-pflege",
+        "link": "https://shop1.de/produkt-kategorie/sortiert-nach-hautthematiken/sonnenbrand-after-sun-pflege/"
+      },
+      {
+        "id": 36,
+        "name": "Make-Up / Dekorative Kosmetik",
+        "slug": "make-up-dekorative-kosmetik",
+        "link": "https://shop1.de/produkt-kategorie/make-up-dekorative-kosmetik/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 58,
+        "name": "vegan",
+        "slug": "vegan",
+        "link": "https://shop1.de/produkt-schlagwort/vegan/"
+      },
+      {
+        "id": 59,
+        "name": "frei von Parfüm",
+        "slug": "frei-von-parfuem",
+        "link": "https://shop1.de/produkt-schlagwort/frei-von-parfuem/"
+      },
+      {
+        "id": 85,
+        "name": "Frauen",
+        "slug": "frauen",
+        "link": "https://shop1.de/produkt-schlagwort/frauen/"
+      },
+      {
+        "id": 89,
+        "name": "Gesichtspflege",
+        "slug": "gesichtspflege",
+        "link": "https://shop1.de/produkt-schlagwort/gesichtspflege/"
+      }
+    ],
+    "has_options": true,
+    "on_sale": false,
+    "is_password_protected": false
+  },
+  "variations": [
+    {
+      "id": 21767,
+      "name": "100% PURE Creamy Long Last Eyeliner (versch. Farben)",
+      "permalink": "https://shop1.de/produkt/100-pure-creamy-long-last-eyeliner-versch-farben/?attribute_pa_farbe=dark-cacao",
+      "description": "",
+      "short_description": "",
+      "variation": "Farbe: Dark Cacao",
+      "prices": {
+        "price": "2650",
+        "regular_price": "2650",
+        "sale_price": "2650",
+        "price_range": null,
+        "currency_code": "EUR",
+        "currency_symbol": "€",
+        "currency_minor_unit": 2,
+        "currency_decimal_separator": ",",
+        "currency_thousand_separator": ".",
+        "currency_prefix": "",
+        "currency_suffix": " €"
+      },
+      "categories": [],
+      "tags": [],
+      "has_options": false,
+      "on_sale": false,
+      "is_password_protected": false
+    },
+    {
+      "id": 21766,
+      "name": "100% PURE Creamy Long Last Eyeliner (versch. Farben)",
+      "permalink": "https://shop1.de/produkt/100-pure-creamy-long-last-eyeliner-versch-farben/?attribute_pa_farbe=blackest",
+      "description": "",
+      "short_description": "",
+      "variation": "Farbe: Blackest",
+      "prices": {
+        "price": "2650",
+        "regular_price": "2650",
+        "sale_price": "2650",
+        "price_range": null,
+        "currency_code": "EUR",
+        "currency_symbol": "€",
+        "currency_minor_unit": 2,
+        "currency_decimal_separator": ",",
+        "currency_thousand_separator": ".",
+        "currency_prefix": "",
+        "currency_suffix": " €"
+      },
+      "categories": [],
+      "tags": [],
+      "has_options": false,
+      "on_sale": false,
+      "is_password_protected": false
+    }
+  ],
+  "sale": {
+    "id": 24056,
+    "name": "Glorious Skin &#8211; Foot Repair Balm &#8211; frei von Parfüm (AB 28.05.2026 ERHÄLTLICH)",
+    "permalink": "https://shop1.de/produkt/glorious-skin-foot-repair-balm-frei-von-parfuem/",
+    "description": "<ul>\n<li>Intensiv reparierende Pflege für trockene und beanspruchte Füße – macht die Haut spürbar weicher und geschmeidiger</li>\n<li>Hochwertige, kaltgepresste Bio Wirköle wie Kokos-, Avocado- und Jojobaöl versorgen die Haut mit wichtigen Nährstoffen und Lipiden</li>\n<li>Effektive Feuchtigkeitsverso",
+    "short_description": "<ul>\n<li class=\"product__text\">Ideal bei trockener und rissiger Haut</li>\n<li class=\"product__text\">Zieht schnell ein, ohne zu fetten</li>\n<li class=\"product__text\">Spendet langanhaltende Feuchtigkeit</li>\n<li class=\"product__text\">13 Nährstoffe für reichhaltige &amp; intensive Fußpflege</li>\n</ul>",
+    "variation": "",
+    "prices": {
+      "price": "1900",
+      "regular_price": "2200",
+      "sale_price": "1900",
+      "price_range": null,
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": ".",
+      "currency_prefix": "",
+      "currency_suffix": " €"
+    },
+    "categories": [
+      {
+        "id": 411,
+        "name": "Hand- &amp; Fußcremes",
+        "slug": "hand-fusscremes",
+        "link": "https://shop1.de/produkt-kategorie/koerperpflege/hand-fusscremes/"
+      },
+      {
+        "id": 421,
+        "name": "Neurodermitis",
+        "slug": "neurodermitis",
+        "link": "https://shop1.de/produkt-kategorie/sortiert-nach-hautthematiken/neurodermitis/"
+      },
+      {
+        "id": 230,
+        "name": "NEUE Produkte",
+        "slug": "neue-produkte",
+        "link": "https://shop1.de/produkt-kategorie/neue-produkte/"
+      },
+      {
+        "id": 32,
+        "name": "Körperpflege",
+        "slug": "koerperpflege",
+        "link": "https://shop1.de/produkt-kategorie/koerperpflege/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 96,
+        "name": "Körperpflege",
+        "slug": "koerperpflege",
+        "link": "https://shop1.de/produkt-schlagwort/koerperpflege/"
+      },
+      {
+        "id": 59,
+        "name": "frei von Parfüm",
+        "slug": "frei-von-parfuem",
+        "link": "https://shop1.de/produkt-schlagwort/frei-von-parfuem/"
+      },
+      {
+        "id": 85,
+        "name": "Frauen",
+        "slug": "frauen",
+        "link": "https://shop1.de/produkt-schlagwort/frauen/"
+      },
+      {
+        "id": 608,
+        "name": "Fußcreme",
+        "slug": "fusscreme",
+        "link": "https://shop1.de/produkt-schlagwort/fusscreme/"
+      },
+      {
+        "id": 87,
+        "name": "Männer",
+        "slug": "maenner",
+        "link": "https://shop1.de/produkt-schlagwort/maenner/"
+      }
+    ],
+    "has_options": false,
+    "on_sale": true,
+    "is_password_protected": false
+  }
+}
