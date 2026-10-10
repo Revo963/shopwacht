@@ -7,10 +7,8 @@ letter from a competitor or an association) and explains every finding: where it
 how to fix it.
 
 You run it on your own computer with your own [OpenRouter](https://openrouter.ai) key. Plan on a sixth of a cent per
-product: two measured runs cost 3 cents for a shop with 22 products and 21 cents for one with 150. The larger run took 20
-minutes, 13 of them for opening the product pages in a browser. That step has since become about four times faster (45
-pages of the same shop in 74 seconds), so expect around ten minutes for such a shop. The slowest part is now waiting for
-the second opinion's model answers.
+product: two measured runs cost 3 cents for a shop with 22 products and 22 cents for one with 150. The larger run took
+8 minutes 22 seconds, 4 minutes 50 seconds of them waiting for the second opinion's model answers.
 
 **Not legal advice.** ShopWacht is an automated first check of what a shop shows in public. It does not replace a lawyer
 and does not guarantee that a shop is safe from an Abmahnung.

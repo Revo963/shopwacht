@@ -7,6 +7,7 @@
 import { readFileSync } from 'node:fs';
 import { PRODUCT_RULES } from '../rules/index.js';
 import type { Finding, Product, ScanReport, SecondJudgeSummary, ShopSnapshot } from '../types.js';
+import { sentencesOf } from './cite.js';
 import { sortFindings } from './engine.js';
 import { pool } from './pool.js';
 
@@ -276,17 +277,42 @@ export function combine(answers: Answer[]): Answer {
 
 export type JudgeChange = SecondJudgeSummary['changes'][number];
 
-/** The shop's words the models quoted in their reason („…“ or "…"); the reason itself when they quoted none. */
+/** What the report says in place of a passage when an added finding has none. */
+export const NO_PASSAGE = 'Ohne zugeordnete Textstelle – bitte die Produktbeschreibung auf diese Aussage prüfen.';
+
+/** What the models put in quotation marks in their reason: „…“, "…", «…» or '…'. One word is not enough to find a passage. */
 function quotedWords(why: string): string[] {
-  const quotes = [...why.matchAll(/[„“"«]([^„“"«»]{3,200})[“”"»]/gu)].map((m) => m[1]!.trim());
-  return quotes.length ? [...new Set(quotes)].slice(0, 3) : [why].filter(Boolean);
+  const quotes = [...why.matchAll(/[„“"«]([^„“"«»]{3,200})[“”"»]|(?<![\p{L}\d])['‚‘]([^'‚‘’]{3,200})['‘’](?![\p{L}\d])/gu)].map((m) => (m[1] ?? m[2])!.trim());
+  return quotes.filter((q) => /\s/.test(q));
+}
+
+/** The excerpts of the rendered page on a product sheet, as one text. */
+const excerptsOf = (b: BrowserFacts | null | undefined): string =>
+  b ? [b.priceBlock ?? '', ...(b.unitPriceSnippets ?? []), ...(b.materialSnippets ?? []), ...(b.priceNoteSnippets ?? [])].join('\n') : '';
+
+/**
+ * Where the shop says what the models quoted, the longest quote first: the product's own sentence, or – for words that
+ * stand on the rendered page only, such as a list of benefits beside the price – the words as they stand there. The reason
+ * itself is never shown: it is the models' wording, and a quote that is nowhere in what they read may be the wording the
+ * law allows.
+ */
+function passages(why: string, product: Product, page: string): string[] {
+  const flat = (s: string) => s.toLowerCase().replace(/\s+/g, ' ');
+  const sentences = sentencesOf(product);
+  const found: string[] = [];
+  for (const q of quotedWords(why).sort((a, b) => b.length - a.length)) {
+    const onPage = () => new RegExp(q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/\s+/g, '\\s+'), 'iu').exec(page)?.[0];
+    const passage = sentences.find((s) => flat(s).includes(flat(q))) ?? onPage();
+    if (passage && !found.some((f) => flat(f).includes(flat(passage)))) found.push(passage);
+  }
+  return found.slice(0, 3);
 }
 
 /**
  * "veto+t" for one product: its findings after the combined verdict, and what changed. Findings of rules the models were not
- * asked about stay as they are.
+ * asked about stay as they are. `facts` are the page excerpts the models read with the product.
  */
-export function applyVerdicts(findings: Finding[], product: Product, answer: Answer): { findings: Finding[]; removed: Finding[]; changes: JudgeChange[] } {
+export function applyVerdicts(findings: Finding[], product: Product, answer: Answer, facts?: BrowserFacts | null): { findings: Finding[]; removed: Finding[]; changes: JudgeChange[] } {
   const changes: JudgeChange[] = [];
   const kept: Finding[] = [];
   // A dropped finding is kept aside (technical data, CSV), with the models' reason.
@@ -318,6 +344,7 @@ export function applyVerdicts(findings: Finding[], product: Product, answer: Ans
   for (const r of RULE_IDS) {
     if (!CLAIM_RULES.has(r) || answer[r]?.v !== 'violation' || findings.some((f) => f.ruleId === r)) continue;
     changes.push({ productId: product.id, ruleId: r, change: 'added', level: 'pruefen', why: why(r) });
+    const evidence = passages(answer[r]!.why, product, excerptsOf(facts));
     kept.push({
       ruleId: r,
       level: 'pruefen',
@@ -325,7 +352,8 @@ export function applyVerdicts(findings: Finding[], product: Product, answer: Ans
       confidence: 1,
       basis: 'modell',
       subject: { type: 'product', id: product.id, title: product.title, url: product.url },
-      evidence: quotedWords(answer[r]!.why),
+      evidence,
+      ...(evidence.length ? {} : { note: NO_PASSAGE }),
       secondJudge: 'added',
     });
   }
@@ -363,6 +391,7 @@ export async function runSecondJudge(report: ScanReport, shop: ShopSnapshot, jud
     products: products.length, judged: 0, failed: 0, overCap: 0, withoutPage: 0, dropped: 0, downgraded: 0, added: 0, changes: [],
   };
   const verdicts = new Map<string, Answer>();
+  const read = new Map<string, BrowserFacts | null>();
   let inFlight = 0;
   let batchesDone = 0;
   let fatal: string | undefined;
@@ -408,6 +437,7 @@ export async function runSecondJudge(report: ScanReport, shop: ShopSnapshot, jud
               facts = text ? browserFacts(text, p) : null;
             }
             if (!facts) summary.withoutPage++;
+            read.set(p.id, facts);
             return productBlock(keyOf.get(p.id)!, host, p, facts).trim();
           }),
         );
@@ -442,7 +472,7 @@ export async function runSecondJudge(report: ScanReport, shop: ShopSnapshot, jud
   const judged = products.flatMap((p) => {
     const answer = verdicts.get(p.id);
     if (!answer) return [];
-    const result = applyVerdicts(report.findings.filter((f) => f.subject.type === 'product' && f.subject.id === p.id), p, answer);
+    const result = applyVerdicts(report.findings.filter((f) => f.subject.type === 'product' && f.subject.id === p.id), p, answer, read.get(p.id));
     summary.changes.push(...result.changes);
     removed.push(...result.removed);
     return result.findings;
